@@ -1,0 +1,2 @@
+ErrorDocument 404 "/404_error_pages//http-error.cgi"
+ErrorDocument 500 "/404_error_pages//http-error.cgi"
