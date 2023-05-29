@@ -1,5 +1,5 @@
 <?php
 
-header('Location: http://www.coulsyworksurfaces.co.uk');
+header('Location: http://www.coulsyworksurfaces.coulsy.dev');
 exit;
 ?>
